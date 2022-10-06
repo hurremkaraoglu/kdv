@@ -1,8 +1,11 @@
 # kdv
 
+
 import java.util.Scanner;
 
+
 public class Main {
+
     public static void main(String[] args) {
     
         double kdv = 0.18 , kdv2 = 0.08;
